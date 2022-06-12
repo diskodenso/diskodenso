@@ -1,11 +1,7 @@
 ### <div align="center">Hi, I am Denis😇</div>  
   
 
-#### Welcome on my Github page  
-  
-
-- 🌱 I’m currently learning JavaScript
-    
+#### Welcome on my Github page      
 
 <br/>  
 
