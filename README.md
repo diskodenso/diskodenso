@@ -48,8 +48,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
-
 
 
 </td></tr></table>  
