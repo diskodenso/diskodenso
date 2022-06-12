@@ -1,7 +1,7 @@
 ### <div align="center">Hi, I am Denis😇</div>  
   
 
-#### Welcome on my Github page      
+#### Welcome to my Github page      
 
 <br/>  
 
