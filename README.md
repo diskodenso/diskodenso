@@ -1,7 +1,7 @@
 ### <div align="center">Hi, I am Denis😇</div>  
   
 
-## Welcome on my Github page 
+#### Welcome on my Github page 
  
 
 - 🌱 I’m currently learning JavaScript  
@@ -53,9 +53,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
-</td></tr></table>  
 
 <br/>  
 
