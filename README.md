@@ -5,7 +5,7 @@
 
 🔭 I’m currently working at itmX GmbH
 
-🌱 I’m currently learning VueJS 3 and TypeScript
+🌱 I’m currently learning VueJS 3, TypeScript and Microsoft PowerApps 💪
 
 <br/>  
 
