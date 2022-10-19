@@ -1,7 +1,11 @@
 ### <div align="center">Hi, I am Denis😇</div>  
   
 
-#### Welcome to my Github page      
+#### Welcome to my Github page
+
+🔭 I’m currently working on Github Profilinator
+
+🌱 I’m currently learning Hyperledger and Kubernetes
 
 <br/>  
 
