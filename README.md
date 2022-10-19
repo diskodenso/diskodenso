@@ -3,9 +3,9 @@
 
 #### Welcome to my Github page
 
-🔭 I’m currently working on Github Profilinator
+🔭 I’m currently working at itmX GmbH
 
-🌱 I’m currently learning Hyperledger and Kubernetes
+🌱 I’m currently learning VueJS 3 and TypeScript
 
 <br/>  
 
