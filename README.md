@@ -7,6 +7,8 @@
 
 🌱 I’m currently learning VueJS 3, TypeScript and Microsoft PowerApps 💪
 
+💌 Feel free to get in touch with me!
+
 <br/>  
 
 
