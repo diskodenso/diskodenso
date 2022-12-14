@@ -5,7 +5,7 @@
 
 🔭 I’m currently working at itmX GmbH as a Junior Frontend and Middleware Developer
 
-🌱 I’m currently learning VueJS 3, TypeScript and Microsoft PowerApps 💪
+🌱 I’m currently learning VueJS 3, TypeScript, NestJS and Microsoft PowerApps 💪
 
 💌 Feel free to get in touch with me!
 
