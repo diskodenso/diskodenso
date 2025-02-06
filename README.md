@@ -3,9 +3,9 @@
 
 #### Welcome to my Github page
 
-🔭 I’m currently working at itmX GmbH as a Junior Frontend and Middleware Developer
+🔭 I’m currently studying applied information technology at htw berlin
 
-🌱 I’m currently learning VueJS 3, TypeScript, NestJS and Python💪
+🌱 I’m currently learning Java
 
 💌 Feel free to get in touch with me!
 
